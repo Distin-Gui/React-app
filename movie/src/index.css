@@ -58,7 +58,7 @@
    font-weight: 400;
    line-height: 1.5;
    color: #adafae;
-   background-color: #060606;
+   background-color: #0e0d0d;
    -webkit-text-size-adjust: 100%;
    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
  }
@@ -220,7 +220,7 @@
  }
  
  a {
-   color: #2a9fd6;
+   color: #adafae;
    text-decoration: underline;
  }
  
