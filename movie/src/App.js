@@ -1,4 +1,4 @@
-import Movie from './Components/Movie'
+import Movie from './Components/home/Movie'
 import SearchArea from './Components/SearchArea'
 import './App.css';
 

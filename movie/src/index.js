@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {
   page
-} from './Components/Movie'
+} from './Components/home/Movie'
 
 
 
