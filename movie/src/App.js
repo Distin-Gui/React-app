@@ -1,13 +1,17 @@
 import Movie from './Components/home/Movie'
 import SearchArea from './Components/SearchArea'
+import { Provider } from 'react-redux';
 import './App.css';
+import store from './store';
 
 function App() {
   return (
-    <div className="App">
-      <SearchArea />
+    <Provider store={store}>
+        <SearchArea />
         <Movie/>
-    </div>
+    </Provider>
+      
+    
   );
 }
 
